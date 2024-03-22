@@ -106,7 +106,7 @@ class DISTS(torch.nn.Module):
         pretrained_features = models.resnet18(pretrained=True)
         num_ftrs = pretrained_features.fc.in_features
         pretrained_features.fc = torch.nn.Linear(num_ftrs, 2)
-        pretrain_model = torch.load('./resnet_best.pth')
+        pretrain_model = torch.load('./DehIQA.pth')
         new_state_dict = {}
         for k, v in pretrain_model.items():
             new_state_dict[k[7:]] = v
