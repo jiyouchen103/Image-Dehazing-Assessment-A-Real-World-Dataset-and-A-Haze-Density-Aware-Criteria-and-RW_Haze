@@ -1,5 +1,5 @@
 # Image Dehazing Assessment: A Real-World Dataset and A Haze Density-Aware Criteria & RW_Haze
-* The paper Link(https://ieeexplore.ieee.org/document/10366874)
+* The paper DehIQA&RW-HAZE Link(https://ieeexplore.ieee.org/document/10366874)(https://ieeexplore.ieee.org/document/9897706)
 
 <img src=https://github.com/jiyouchen103/RW_Haze/blob/main/paper/2.png >
 
