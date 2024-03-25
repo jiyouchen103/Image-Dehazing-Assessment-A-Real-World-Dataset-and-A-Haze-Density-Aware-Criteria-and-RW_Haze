@@ -17,6 +17,11 @@
 ## The pre-training weight Download
 * The [weight](https://pan.baidu.com/s/1p1dX4S3gpuWZcWgvLPOqtA)[password=fti2]
 
+
+## License
+* This code is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) for non-commercial use only. Please note that any commercial use of this code requires formal permission prior to use.
+
+
 ## Citation
 If you would like to use our released RW-HAZE and the proposed metrics, please cite the following two articles.
 
